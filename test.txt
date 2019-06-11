@@ -1,0 +1,18 @@
+# git is a version control software
+import time
+
+def sing():
+    for i in range(3):
+        time.sleep(1)
+        print(i)
+
+def dnace():
+    for i in range(5):
+        time.sleep(2):
+            print('正在跳舞中')
+
+if __name__ == '__main__':
+    print('hello')
+    sing()
+    dance()
+    ptint('python is best language in th world')
